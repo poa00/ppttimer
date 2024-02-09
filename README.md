@@ -15,7 +15,7 @@
 
 ## Screenshot:
 
-! [Screenshot](screenshot.png)
+![Screenshot](screenshot.png)
 
 ## How to install and use
 * No installation required, [download] (https://github.com/old9/ppttimer/releases) and unzip, run ppttimer.exe and you're ready to go.
