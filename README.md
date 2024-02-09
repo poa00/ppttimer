@@ -1,5 +1,5 @@
 # PPT timer
-! [ppttimer](ppttimer.png)
+![ppttimer](ppttimer.png)
 [Download](https://github.com/old9/ppttimer/releases)
 
 ## A simple PowerPoint timer for Windows, built with [Autohotkey] (http://autohotkey.com).
