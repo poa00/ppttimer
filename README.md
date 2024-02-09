@@ -18,11 +18,10 @@
 ! [Screenshot](screenshot.png)
 
 ## How to install and use
-
-No installation required, [download] (https://github.com/old9/ppttimer/releases) and unzip, run ppttimer.exe and you're ready to go.
-The PPT will be automatically detected when the program is launched, and the timer will be automatically started once the PPT starts to be shown.
-If it is not a PPT projection, other presentation methods such as PDF can also be started manually with shortcut keys.
-The default shortcut is set to start the  show 'F12', stop the show 'Ctrl' + 'F12', and exit the program 'Windows). `+`ESC`。
+* No installation required, [download] (https://github.com/old9/ppttimer/releases) and unzip, run ppttimer.exe and you're ready to go.
+* The PPT will be automatically detected when the program is launched, and the timer will be automatically started once the PPT starts to be shown.
+* If it is not a PPT projection, other presentation methods such as PDF can also be started manually with shortcut keys.
+* The default shortcut is set to start the  show 'F12', stop the show 'Ctrl' + 'F12', and exit the program 'Windows). `+`ESC`。
 
 ## Ini config:
 ```ini
